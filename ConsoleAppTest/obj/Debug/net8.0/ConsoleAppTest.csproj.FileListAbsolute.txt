@@ -1,0 +1,16 @@
+C:\Users\shado\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shado\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.AssemblyInfoInputs.cache
+C:\Users\shado\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.AssemblyInfo.cs
+C:\Users\shado\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\shado\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\net8.0\ConsoleAppTest.exe
+C:\Users\shado\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\net8.0\ConsoleAppTest.deps.json
+C:\Users\shado\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\net8.0\ConsoleAppTest.runtimeconfig.json
+C:\Users\shado\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\net8.0\ConsoleAppTest.dll
+C:\Users\shado\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\net8.0\ConsoleAppTest.pdb
+C:\Users\shado\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.dll
+C:\Users\shado\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\net8.0\refint\ConsoleAppTest.dll
+C:\Users\shado\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.pdb
+C:\Users\shado\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.genruntimeconfig.cache
+C:\Users\shado\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\net8.0\ref\ConsoleAppTest.dll
+C:\Users\shado\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\net8.0\citys.txt
+C:\Users\shado\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\net8.0\countries.txt
